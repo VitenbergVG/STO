@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="STO_DB.exe" size="105888">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="STO_DB.exe" size="106400">
       <assemblyIdentity name="STO_DB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4jfnDnYODxWOpx1xO3YjZbQb57+cHyCQSEzUvK+oNl8=</dsig:DigestValue>
+        <dsig:DigestValue>OeXZo+fRAaz+OFz9+S08cnhfY9m93Nec5P3Gtq970ns=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

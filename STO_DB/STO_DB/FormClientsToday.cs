@@ -247,14 +247,7 @@ namespace STO_DB
             labEmployeesRepairs.Width = 200;
             labEmployeesRepairs.Location = new Point(990, 20);
             newTabPage.Controls.Add(labEmployeesRepairs);
-
-            //Список работ проводимых по машине
-            CheckedListBox clbRepairs = new CheckedListBox();
-            clbRepairs.Height = 500;
-            clbRepairs.Width = 300;
-            clbRepairs.Location = new Point(600, 50);
-            newTabPage.Controls.Add(clbRepairs);
-
+            
             //Список цен на работы
             ListBox lbRepairsCosts = new ListBox();
             lbRepairsCosts.Height = 500;
@@ -268,6 +261,32 @@ namespace STO_DB
             lbEmployeesRepairs.Width = 150;
             lbEmployeesRepairs.Location = new Point(990, 50);
             newTabPage.Controls.Add(lbEmployeesRepairs);
+
+            //Список работ проводимых по машине
+            CheckedListBox clbRepairs = new CheckedListBox();
+            clbRepairs.Height = 500;
+            clbRepairs.Width = 300;
+            clbRepairs.Location = new Point(600, 50);
+            newTabPage.Controls.Add(clbRepairs);
+            clbRepairs.SelectedIndexChanged += (sender, args) =>
+            {
+                lbEmployeesRepairs.SelectedIndex = clbRepairs.SelectedIndex;
+                lbRepairsCosts.SelectedIndex = clbRepairs.SelectedIndex;
+
+                if (clbRepairs.GetItemChecked(clbRepairs.SelectedIndex)) //&& clbRepairs.SelectedIndex != -1) - проверка для того чтобы нельзя было нажать на пустой clb
+                {
+                    string[] strEmployee = lbEmployeesRepairs.SelectedItem.ToString().Split(new char[] { ' ' });
+                    int idEmployee = Convert.ToInt32(strEmployee[strEmployee.Length - 1]);
+
+                    string factQuery;
+                    FormWorkHoursRepairs fwhr = new FormWorkHoursRepairs();
+                    factQuery = "(`work_hours_id_work_hours`, `repairs_id_repair`, `clients_id_client`, `time_start`, `time_finish`) VALUES('" +
+                               db.SearchIdWorkHours(idEmployee, DateTime.Today.ToString("yyyy-MM-dd")) + "', '" +
+                               db.SearchIdRepairs(clbRepairs.SelectedItem.ToString()) +
+                               "', '" + tbIdDriver.Text + "', '" + timeStartRepair + "', '" + DateTime.Now.ToString("HH:mm:ss") + "');";
+                    db.Add("current_repairs", factQuery, fwhr.dgvWorkHoursRepairs);
+                }
+            };
 
             //Общая стоимость
             Label lbRepairsTotalCost = new Label();
