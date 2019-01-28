@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="STO_DB.exe" version="1.0.0.0" publicKeyToken="089e203b7a102cf1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="STO_DB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="STO_DB.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          При необходимости изменить уровень контроля учетных записей Windows замените узел 
+          requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Если вы хотите использовать виртуализацию файлов и реестра для обратной 
+         совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.Protobuf.dll" size="294400">
+      <assemblyIdentity name="Google.Protobuf" version="3.5.1.0" publicKeyToken="A7D26565BAC4D604" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kmmLSyM9YCkmP+X33YMDTg/6sJlFHUuInLwRv1o/LXM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="709632">
+      <assemblyIdentity name="MySql.Data" version="8.0.13.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4KnTND0fQ/2Rby4HrRdCc31GxR+Yho9GbxngMs6Zf/g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="STO_DB.exe" size="26016">
+      <assemblyIdentity name="STO_DB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>GdEOmW18z9RUq5t/cL6Z4328TFU9yU47ykMseX85QEM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="STO_DB.exe.config" size="539">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Ko48hRQaBWvBoUjcP8/zuRd+7D02GQN7/ktnAOLfGcU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=BOBAH\User" issuerKeyHash="74fafe585415b144f07e827b5b2b79eebab71440" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>uPvbagf1B/akSjEB5NfHEVxPskHky6ZJyXOdoFrkQ1U=</DigestValue></Reference></SignedInfo><SignatureValue>HjIAOnau4p4q/0O3XprYcZRfv++p56lrOfpy6PfKIbbmzhMCfNxIKmzHDhuIb7xuPFHT+yKREdDzg29Fej975+x19jPLhq0dwKq0l5yMO3OoYM7hKiWuoEO6M1NP98yoGaXBU5wNgi76On0HufCtXx+ULNn4RWtJp6EKSSbgFD8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uxqVjgHwuZ8dMBPf62sCrLglb9LPsP/1bfhOxtm7y97Q1rRx0bxW/dpIrAe5La14nGVwm1AZgfU/nu/DxNmmeZuW32y9MUrAIW3Pxx6WUebJqOjj8C322Ofd0bsuT4kfFkXk3wsLsu3rv3kU/H+lWd9AK6EAFYucFGWbL4VLCqk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5543e45aa09d73c949a6cbe441b24f5c11c7d7e401314aa4f607f5076adbfbb8" Description="" Url=""><as:assemblyIdentity name="STO_DB.exe" version="1.0.0.0" publicKeyToken="089e203b7a102cf1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BOBAH\User</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2XSpN34JiCbhY6nslfsqU5q0KKBN0cQIAYLb4IYlrnw=</DigestValue></Reference></SignedInfo><SignatureValue>fKdFoLCe+TEu3Y7MIyWRvzoACKKX0dCxxUwXqCw68fqYGoK7LkVBi6xjySl07yW0BikhPKwl3dLqdxX13FbW68GP7D2TzJWaHN91BNxy97dGyIZiv8WbC+5w1CywR8QA+H556ZiWq0j8P5orPPAq69uLgXcOaaINSXr4f5NSkS4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uxqVjgHwuZ8dMBPf62sCrLglb9LPsP/1bfhOxtm7y97Q1rRx0bxW/dpIrAe5La14nGVwm1AZgfU/nu/DxNmmeZuW32y9MUrAIW3Pxx6WUebJqOjj8C322Ofd0bsuT4kfFkXk3wsLsu3rv3kU/H+lWd9AK6EAFYucFGWbL4VLCqk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQKe3Ip5UIaKNOP7J2IcG0fjANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAQgBPAEIAQQBIAFwAVQBzAGUAcjAeFw0xODExMjQxODI2MjJaFw0xOTExMjUwMDI2MjJaMB8xHTAbBgNVBAMeFABCAE8AQgBBAEgAXABVAHMAZQByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7GpWOAfC5nx0wE9/rawKsuCVv0s+w//Vt+E7G2bvL3tDWtHHRvFb92kisB7ktrXicZXCbUBmB9T+e78PE2aZ5m5bfbL0xSsAhbc/HHpZR5smo6OPwLfbY593Ruy5PiR8WReTfCwuy7eu/eRT8f6VZ30AroQAVi5wUZZsvhUsKqQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBALGDNzwoig+UHcmsd9HQ7xFI522vX/Y0Au2q8rfnitogj7MZ4kNqD/ef1g7ZpRmNvlOhYOhDkNyYmb+HKpzLwKccZqceh57ME/+C+8q887N35nVQMbLAFvOga3Nmx6Pa+0yZjcnccgIYWpm/mqyXY5ZqlYtQtAzVCm8+5zXTVG/y</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

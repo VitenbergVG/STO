@@ -1,0 +1,143 @@
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe.config
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.pdb
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Properties.Resources.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CopyComplete
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.exe
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.pdb
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormCars.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormMain.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormClientsToday.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormEnter.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe.manifest
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.application
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.exe.manifest
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.application
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormEmployees.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAbout.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormClients.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddClients.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddCar.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddEmployees.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csprojAssemblyReference.cache
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe.config
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe.manifest
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.application
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.pdb
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\MySql.Data.dll
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\Google.Protobuf.dll
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\MySql.Data.xml
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csprojAssemblyReference.cache
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAbout.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAboutCar.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddCar.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddClients.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddEmployees.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormCars.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormClients.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormClientsToday.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormEmployees.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormEnter.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormMain.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormPicClient.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormRequests.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Properties.Resources.resources
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.GenerateResource.cache
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CoreCompileInputs.cache
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.exe.manifest
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.application
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CopyComplete
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.exe
+D:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.pdb
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csprojAssemblyReference.cache
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddAction.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddRepairs.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddWorkHours.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAbout.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAboutCar.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddCar.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddClients.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddEmployees.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormWorkHours.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Tables.FormActions.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormCars.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormClients.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormClientsToday.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormEmployees.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormEnter.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormMain.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormPicClient.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Tables.FormRepairs.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormRequests.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Properties.Resources.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.GenerateResource.cache
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CoreCompileInputs.cache
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe.config
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe.manifest
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.application
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.pdb
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\MySql.Data.dll
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\Google.Protobuf.dll
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\MySql.Data.xml
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.exe.manifest
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.application
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CopyComplete
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.exe
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.pdb
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe.config
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe.manifest
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.application
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.exe
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\STO_DB.pdb
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\MySql.Data.dll
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\Google.Protobuf.dll
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\bin\Debug\MySql.Data.xml
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csprojResolveAssemblyReference.cache
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddAction.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddRepairs.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddWorkHours.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAbout.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAboutCar.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddCar.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddClients.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAddEmployees.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormWorkHours.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Tables.FormActions.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormCars.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormClients.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormClientsToday.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormEmployees.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormEnter.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormMain.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormPicClient.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Tables.FormRepairs.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormRequests.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Properties.Resources.resources
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.GenerateResource.cache
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CoreCompileInputs.cache
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.exe.manifest
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.application
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.csproj.CopyComplete
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.exe
+F:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.pdb
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Tables.FormWorkHoursRepairs.resources
+E:\Проектирование АСОИУ\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddWorkHoursRepairs.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddAction.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddRepairs.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddWorkHours.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Add.FormAddWorkHoursRepairs.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAboutCar.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormWorkHours.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Tables.FormActions.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormPicClient.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Tables.FormRepairs.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormRequests.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.Tables.FormWorkHoursRepairs.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormPicWorkHours.resources
+C:\Users\User\Desktop\DB_STO\STO_DB\STO_DB\obj\Debug\STO_DB.FormAboutCurrentRepair.resources
