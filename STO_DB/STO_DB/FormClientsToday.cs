@@ -390,6 +390,9 @@ namespace STO_DB
         //Для клиента из БД
         private void CreateTab(string currentClient)
         {
+            //id Клиента
+            int idClient;
+
             //добавление вкладки
             TabPage newTabPage = new TabPage();
             newTabPage.Text = "Клиент" + i++;
